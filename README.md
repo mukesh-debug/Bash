@@ -1,2 +1,2 @@
 # Bash
-Bash scripts and scripts for automation
+This repository would contain my practice Bash scripts and Bash scripts for automation.
